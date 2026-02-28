@@ -1,16 +1,48 @@
-# React + Vite
+## Profile Cards App (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React Profile Cards Application featuring search functionality, theme toggle (light/dark mode), and interactive follow/unfollow buttons.
+This project demonstrates core React concepts, clean UI design, and responsive layout.
 
-Currently, two official plugins are available:
+## 🚀 Live Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔍 Search Profiles by Name
 
-## React Compiler
+🌗 Light & Dark Theme Toggle
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+❤️ Follow / Unfollow Users
 
-## Expanding the ESLint configuration
+♻ Reusable Components
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📱 Fully Responsive Design
+
+⚡ Real-time UI Updates
+
+## 🛠 Tech Stack
+
+React.js
+
+JavaScript (ES6)
+
+CSS (Flexbox & Media Queries)
+
+Props & React Hooks (useState)
+
+## 🧠 Concepts Used
+
+useState hook
+
+Conditional rendering
+
+Array map() & filter()
+
+Controlled inputs
+
+## Task Status
+
+✔ All required features implemented
+✔ Clean UI and logic
+✔ Beginner-friendly React project
+
+## 👤 Author
+
+Noor Ullah – Frontend Developer
