@@ -182,16 +182,20 @@ button{
 
 .light .theme-btn{
   background-color: #e9ecef;
-  color: #007bff;
+  color: #05080a;
   border: none;
   border-radius: 20px;
 }
 
 .dark .theme-btn{
   background-color: #343a40;
-  color: #4da3ff;
+  color: #fcfdfd;
    border: none;
   border-radius: 20px;
+}
+
+.theme-btn:hover{
+  transform:scale(1.05);
 }
 
 @media (max-width: 768px) {

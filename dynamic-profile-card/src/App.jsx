@@ -18,16 +18,16 @@ const App = () => {
     },
     {
       id: 3,
-      name: 'James',
-      bio: 'UI/UX Designer',
-      avatar: './src/assets/555.jpg',
+      name: 'Usama',
+      bio: 'Communication Speaker',
+      avatar: './src/assets/usama.jpeg',
       isFollowed: false
     },
       {
       id: 4,
-      name: 'Toms',
+      name: 'M Yar',
       bio: 'ML Engineer',
-      avatar: './src/assets/2.jpg',
+      avatar: './src/assets/yar.jpeg',
       isFollowed: false
     },
     {
@@ -96,6 +96,7 @@ const App = () => {
     <div className={theme ? 'app dark' : 'app light'}>
 
       <header class="header">
+      
         <input 
         type="text" 
         placeholder='Type name'
